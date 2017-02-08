@@ -1,8 +1,8 @@
 # Radio Fm 
-Contributors: Imo Nnadozie
-Donate link: http://www.nlb-creations.com/donate
-Tags: scheduling, radio, dj, music
-Requires at least: 3.4.1
+*Contributors: Imo Nnadozie
+**Donate link: http://www.nlb-creations.com/donate
+**Tags: scheduling, radio, dj, music
+**Requires at least: 4.3.0
 
 Radio Fm is a Wordpress plugin that allow users to integrate a radio-station system on thier website. 
 
@@ -33,12 +33,12 @@ associated with those shows.  The plugin contains a widget to display the curren
 ### Shortcode
 Paste this shortcode in your project(pages or template file respectively)
 
-[now-playing] or <? echo do_shortcode('[now-playing]')?>
-[master-schedule] or <? echo do_shortcode('[master-schedule]')?>
-[get-playlists] or <? echo do_shortcode('[get-playlists]')?>
-[list-shows] or <? echo do_shortcode('[list-shows]')?>
-[dj-widget] or <? echo do_shortcode('[dj-widget]')?>
-[dz-coming-up-widget] or <? echo do_shortcode('[dz-coming-up-widget]')?>
+*[now-playing] or <? echo do_shortcode('[now-playing]')?>
+*[master-schedule] or <? echo do_shortcode('[master-schedule]')?>
+*[get-playlists] or <? echo do_shortcode('[get-playlists]')?>
+*[list-shows] or <? echo do_shortcode('[list-shows]')?>
+*[dj-widget] or <? echo do_shortcode('[dj-widget]')?>
+*[dz-coming-up-widget] or <? echo do_shortcode('[dz-coming-up-widget]')?>
 
 
 ### Frequently Asked Questions
