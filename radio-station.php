@@ -14,7 +14,7 @@ Text Domain: radio-fm
 Domain Path: /languages
 Author URI: http://www.imonnadozie.com
 
-Copyright 2017 Imo Nnadozie  (email : imonnadozie@yahoo.com or lucasatwon)
+Copyright 2017 Imo Nnadozie  (email : imonnadozie@yahoo.com or lucasatwon@gmail.com)
 
 This program is free software; you can redistribute it and/or modify
 it under the terms of the GNU General Public License, version 2, as 
