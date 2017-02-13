@@ -369,7 +369,14 @@ function station_shortcode_dj_on_air($atts) {
 			}
 		}
 		else {
-			$dj_str .= '<li class="on-air-dj default-dj">'.$default_name.'</li>';
+			$dj_str .= '<li class="on-air-dj default-dj">';
+			$dj_str .= '<span class="on-air-dj-avatar img_large dj_img_large">';
+			$dj_str .= '<img src="Add your Image" class="attachment-large size-large wp-post-image" alt="On-air-banner" height="422" width="640">';
+			$dj_str .= '</span>';
+			$dj_str .= '<div class="show-caption">';
+			$dj_str .= '<span class="on-air-dj-title">No Show</span>';
+			$dj_str .= '</div>';
+			$dj_str .= '</li>';
 		}
 	}
 
